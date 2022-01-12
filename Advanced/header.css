@@ -1,0 +1,22 @@
+#newspaperName{
+    border: gray 0px solid;
+    display: block;
+    text-decoration: underline;
+    padding: 10px;
+    width: 80%;
+    margin-left: 10px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   color: cadetblue;
+   background-color: rgb(195, 230, 231);
+}
+#newspaperName::first-letter{
+    color: black;
+    font-size: 72px;
+}
+.titles{
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: white;
+    color: tomato;
+}

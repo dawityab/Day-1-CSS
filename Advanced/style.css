@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: rgba(219, 210, 210, 0.3);
+}
+#main-content{
+    width: 80%;
+}
+
+
+
+
+

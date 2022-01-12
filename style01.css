@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+/*Giving all the divs a border and margin*/
+div{
+    margin: 5px;
+    border: 3px solid gray;
+}
+/*Hiding the p of id third*/
+#third > p{
+    display: none;
+}
+/* Hide all the h1 elements on the page */
+h1{
+    display: none;
+}
+#second {
+    visibility: hidden;
+}
+#sixth img{
+    visibility: visible;
+    width: 100%;
+}

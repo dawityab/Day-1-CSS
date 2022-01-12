@@ -1,0 +1,18 @@
+aside{
+    display: inline-block;
+    width: 12em;
+    height: 33em;
+    border-width: 0.1em;
+    border-style: solid;
+    border-color: gray;
+    float:left;
+    }
+    
+img {
+display: inline-block;
+width: 12em;
+border-width: 0.1em;
+border-style: solid;
+border-color: gray;
+float:left;
+}

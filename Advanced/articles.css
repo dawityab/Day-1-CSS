@@ -1,0 +1,21 @@
+article{
+    display: inline-block;
+    width: 48em;
+    border-width: 0.1em;
+    border-style: solid;
+    border-color: gray;
+    float:left;
+    margin-left: 10px ;
+    padding: 10px;
+    margin-bottom: 5px;
+    background-color: rgba(235, 69, 39,0.4);
+}
+article h3{
+    color: white;
+    background-color: rgba(90, 88, 88,0.6);
+    padding: 10px;
+}
+article p{
+    color: white;
+    padding: 10px;
+}
